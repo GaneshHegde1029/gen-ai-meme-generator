@@ -1,0 +1,6 @@
+flask
+diffusers
+torch
+transformers
+Pillow
+python-dotenv
