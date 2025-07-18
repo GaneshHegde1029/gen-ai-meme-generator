@@ -15,8 +15,7 @@ This project uses **Generative AI models** to generate memes from text prompts.
 
 ---
 
-## 📸 Screenshots
-![Meme Generator Screenshot](https://via.placeholder.com/800x400.png?text=Your+Screenshot+Here)
+
 
 ---
 
